@@ -1,0 +1,18 @@
+## Files hierarchy
+Argentina Radio
+│   icon.svg
+│   RadioChannel.json
+│   Readme
+└───program1
+            │   Program.json (OPTIONAL)
+            │
+            └───Playlist
+                │   Segment.json (OPTIONAL)
+                │
+                ├───audio1
+                │       audio1.json (OPTIONAL)
+                │       audio1.ogg
+                │
+                └───audio2
+                        audio2.ogg
+                        audio2.json (OPTIONAL)
