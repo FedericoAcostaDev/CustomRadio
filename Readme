@@ -2,7 +2,7 @@
 Argentina Radio
 │   icon.svg
 │   RadioChannel.json
-│   Readme
+│   Readme.md
 └───program1
             │   Program.json (OPTIONAL)
             │

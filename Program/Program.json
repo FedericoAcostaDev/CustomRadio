@@ -1,7 +1,7 @@
 {
     "name": "Aspen",
     "description": "My Custom Program",
-    "icon": "coui://extendedradio/Argentina Radio/Program/icon.svg",
+    "icon": "coui://extendedradio/ArgentinaRadio/Program/icon.svg",
     "startTime": "00:00",
     "endTime": "00:00",
     "loopProgram": true,
